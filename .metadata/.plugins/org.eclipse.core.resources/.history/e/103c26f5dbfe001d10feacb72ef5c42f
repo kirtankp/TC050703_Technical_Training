@@ -1,0 +1,13 @@
+
+public class Stud {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		StudentDetails s = new StudentDetails();
+		s.setEr("123");
+		s.setRes("pass");
+		
+		System.out.println(s);
+	}
+
+}

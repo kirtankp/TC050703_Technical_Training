@@ -1,0 +1,6 @@
+
+public class RBI {
+	String name;
+	double interest;
+}
+

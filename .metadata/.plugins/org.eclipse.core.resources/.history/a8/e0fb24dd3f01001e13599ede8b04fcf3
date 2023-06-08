@@ -1,0 +1,10 @@
+
+public class RBI {
+	String name;
+	double interest;
+	
+	void display() {
+		System.out.println(name+" interest is "+interest);
+	}
+}
+

@@ -1,0 +1,9 @@
+
+public class Member {
+	String name,address;
+	int age,phNo,salary;
+	
+	public void printSalary() {
+        System.out.println("Salary: " + salary);
+    } 
+}

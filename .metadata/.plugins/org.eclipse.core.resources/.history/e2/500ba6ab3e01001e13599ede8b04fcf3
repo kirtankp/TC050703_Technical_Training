@@ -1,0 +1,7 @@
+
+public class Bank1 extends RBI{
+	Bank1() {
+		String name = "bank1";
+		interest = 2.5;
+	}
+}

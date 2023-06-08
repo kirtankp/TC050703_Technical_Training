@@ -1,0 +1,9 @@
+
+public class BankInterest {
+	public static void main(String[] args) {
+		RBI u1 = new Bank1();
+		System.out.println(u1.name+" interest is "+u1.interest);
+		RBI u2 = new Bank2();
+		System.out.println(u2.name+" interest is "+u2.interest);
+	}
+}
