@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author kirtan
- *
- */
-module ProjectA {
-}
