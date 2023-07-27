@@ -1,7 +1,0 @@
-
-public class Bank2 extends RBI{
-	Bank2() {
-		name = "bank2";
-		interest = 4.5;
-	}
-}
