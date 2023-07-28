@@ -9,9 +9,11 @@ public class FinalExcep {
 		      a = 12;
 		      b = 0;
 		      System.out.println(a/b);
-		}catch(ArithmeticException ar) {
-			System.out.println("Arithmetic " + ar.getMessage());
-		}finally {
+		}
+//		catch(ArithmeticException ar) {
+//			System.out.println("Arithmetic " + ar.getMessage());
+//		}
+		finally {
 			System.out.println("this is finally block");
 		}
 	}
